@@ -1,0 +1,25 @@
+Coming up with good feature is important job in ML
+
+in gradient descent, feature scaling is important
+in normal equation, no feature scaling is required
+
+regularization is the technique to fit a lot of features with less training data available
+
+randn() - a function to generate numbers with mean 0 and standard deviation 1
+
+lot of features but less training data can lead to overfitting models.
+
+Neural net- Then, for each node j in layer l, we would like to compute
+an \error term" smallDelta superscript (l) subscript
+j that measures how much that node was "responsible"
+for any errors in our output.
+
+matrix singular i.e. non invertible if m < n or if u have redundant features.
+
+-----------------------------
+In which of the following situations will a collaborative filtering system be the most appropriate learning algorithm 
+(compared to linear or logistic regression)?
+
+WRONG You're an artist and hand-paint portraits for your clients. Each client gets a different portrait (of themselves) and 
+gives you 1-5 star rating feedback, and each client purchases at most 1 portrait. You'd like to predict what rating your next customer
+will give you.
